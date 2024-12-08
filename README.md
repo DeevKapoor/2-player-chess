@@ -30,11 +30,11 @@ A simple and interactive 2-player chess game built using **HTML**, **CSS**, and 
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/2-player-chess-game.git
+   git clone https://github.com/DeevKapoor/2-player-chess.git
    ```
 2. Navigate to the project directory:
    ```
-   cd 2-player-chess-game
+   cd 2-player-chess
    ```
 3. Open `index.html` in your web browser to start playing.
 
