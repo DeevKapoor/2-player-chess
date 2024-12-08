@@ -41,7 +41,7 @@ A simple and interactive 2-player chess game built using **HTML**, **CSS**, and 
 ---
 
 ## Demo
-You can view a live demo of the game [here](https://your-github-pages-url.com).
+You can view a live demo of the game [here](https://deevkapoor.github.io/2-player-chess/).
 
 ---
 
