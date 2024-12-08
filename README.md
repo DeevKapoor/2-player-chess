@@ -54,7 +54,7 @@ You can view a live demo of the game [here](https://your-github-pages-url.com).
 ---
 
 ## Screenshots
-![Chess Game Screenshot](screenshot.png)
+![Chess Game Screenshot](screenshot.jpg)
 
 ---
 
